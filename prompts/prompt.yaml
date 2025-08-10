@@ -1,0 +1,3 @@
+_type: "prompt"
+template: "What currency is used in {country}?"
+input_variables: ["country"]
